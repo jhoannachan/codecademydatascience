@@ -1,4 +1,4 @@
-Hurricane Analysis Project - Codecademy Data Science Path
+# Hurricane Analysis Project - Codecademy Data Science Path
 
 This CodeAcademy project organizes and manipulates data about Category 5 Hurricanes.
 
